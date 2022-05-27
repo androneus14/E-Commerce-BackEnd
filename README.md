@@ -5,6 +5,7 @@
 - [Description](#description)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
+- [Installation](#installation)
 - [Screenshots](#screenshots)
 - [Technology](#technology)
 - [Links](#links)
@@ -33,9 +34,31 @@ Our task this week is to build the back end for an e-commerce site by modifying 
     WHEN I test API POST, PUT, and DELETE routes in Insomnia
     THEN I am able to successfully create, update, and delete data in my database
 
+## Installation
+
+1. Clone the git repository.
+2. Run npm install to install dependencies.
+3. Log in to your MySQL and input
+   source db/schema.sql
+   and to access the schema. Then input
+   use ecommerce_db
+   to select the correct database.
+4. Once those steps have been executed, quit out of your MySQL and input
+   npm run seed
+   to seed data to your database.
+5. Once that's done, input
+   node server.js
+   to start running the application.
+
 ## Screenshots
 
 ## Technology
+
+1. Node.js
+2. MySQL
+3. Express
+4. Sequelize
+5. Dotenv
 
 ## Links
 
