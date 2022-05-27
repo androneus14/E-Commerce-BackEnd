@@ -39,15 +39,23 @@ Our task this week is to build the back end for an e-commerce site by modifying 
 1. Clone the git repository.
 2. Run npm install to install dependencies.
 3. Log in to your MySQL and input
+   ```terminal
    source db/schema.sql
+   ```
    and to access the schema. Then input
+   ```terminal
    use ecommerce_db
+   ```
    to select the correct database.
 4. Once those steps have been executed, quit out of your MySQL and input
+   ```terminal
    npm run seed
+   ```
    to seed data to your database.
 5. Once that's done, input
+   ```terminal
    node server.js
+   ```
    to start running the application.
 
 ## Screenshots
