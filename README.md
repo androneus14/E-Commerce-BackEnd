@@ -72,18 +72,25 @@ Our task this week is to build the back end for an e-commerce site by modifying 
 
 ## Screenshots
 
+server.js file with added sequelize code to sync sequelize to the database
 ![vscode-server js](https://user-images.githubusercontent.com/98381243/170668694-22ed98c4-4213-48e1-9466-2d313c2a1b27.png)
 
+Category routes with GET, POST, PUT, DEL to run through Insomnia
 ![vscode-cat-routes](https://user-images.githubusercontent.com/98381243/170668789-e8bd60c3-fa4b-46b9-8d6c-e2af39c734d0.png)
 
+Tag routes with GET, POST, PUT, DEL to run through Insomnia
 ![vscode-tag-routes](https://user-images.githubusercontent.com/98381243/170668835-6ece650b-377d-4f44-92e4-11f90b7c5e2a.png)
 
+Getting all categories
 ![insom-getAll](https://user-images.githubusercontent.com/98381243/170668866-b2d7476d-5262-47dd-8b76-2ce2a16e9a49.png)
 
+Creating a new category
 ![insom-createCat](https://user-images.githubusercontent.com/98381243/170668900-d90d795b-7f16-4471-8d97-5e21c4c945d0.png)
 
+Updating a category
 ![insom-updateCat](https://user-images.githubusercontent.com/98381243/170668978-e5e4de90-a724-4b8a-a279-2e30985d9487.png)
 
+Deleting a category
 ![insom-deleteCat](https://user-images.githubusercontent.com/98381243/170668996-9acce735-4508-4e52-9007-2bebee13c106.png)
 
 ## Technology
