@@ -105,5 +105,6 @@ Deleting a category
 
 Email: andynguyen_3@hotmail.com <br />
 Github: https://github.com/androneus14 <br />
-Demo Videos: 1: https://drive.google.com/file/d/1qy3zc-U1laVdRv--mFGU4fw3r7Qcuj1H/view
-2: https://drive.google.com/file/d/14RfdhlVkzGQyBGctGRoTLq_chcosp9nG/view
+Demo Videos:
+1: https://drive.google.com/file/d/1qy3zc-U1laVdRv--mFGU4fw3r7Qcuj1H/view <br />
+2: https://drive.google.com/file/d/14RfdhlVkzGQyBGctGRoTLq_chcosp9nG/view <br />
